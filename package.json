@@ -1,0 +1,33 @@
+{
+  "name": "first-angular",
+  "version": "0.0.1",
+  "description": "create first angular project from 0",
+  "main": "bootstrap.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sorlinV/first-angular.git"
+  },
+  "author": "sorlinV <valentin.sorlin@hotmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sorlinV/first-angular/issues"
+  },
+  "homepage": "https://github.com/sorlinV/first-angular#readme",
+  "dependencies": {
+    "@angular/common": "^4.4.1",
+    "@angular/compiler": "^4.4.1",
+    "@angular/compiler-cli": "^4.4.1",
+    "@angular/core": "^4.4.1",
+    "@angular/platform-browser": "^4.4.1",
+    "rxjs": "^5.4.3",
+    "zone.js": "^0.8.17"
+  },
+  "devDependencies": {
+    "ts-loader": "^2.3.7",
+    "typescript": "^2.5.2",
+    "webpack": "^3.6.0"
+  }
+}
