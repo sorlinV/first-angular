@@ -3,7 +3,7 @@ create first angular project from 0
 
  @angular install npm:
 ```bash
-npm install @angular/core  @angular/common @angular/compiler @angular/compiler-cli @angular/platform-browser --save
+npm install @angular/core  @angular/common @angular/compiler @angular/platform-browser-dynamic @angular/compiler-cli @angular/platform-browser --save
 ```
 other install npm:
 ```bash
